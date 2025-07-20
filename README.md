@@ -79,7 +79,7 @@
 - ⚙️ Focused on legacy system migration, process automation, and modular architecture.
 - 🌎 Based in Villahermosa, Tabasco, México.
 
-## 🇪🇸 Sobre mí
+## 🇲🇽 Sobre mí
 
 - 💻 Desarrollador Fullstack con más de 6 años de experiencia en sistemas web modernos, escalables y seguros.
 - 🏥 Especializado en soluciones ERP para sectores clínicos, industriales y tecnológicos.
