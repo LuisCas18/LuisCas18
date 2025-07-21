@@ -5,6 +5,11 @@
 <h1 align="center">Luis Eduardo Castro Bautista</h1>
 <p align="center"><strong>Fullstack Developer · ERP Specialist · Systems Architect</strong></p>
 
+<p align="center">
+<a href="https://portfolio-cv-profesional-luiscas18.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/%20Ver-Portafolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
 ---
 ## ⚙️ Tech Stack
